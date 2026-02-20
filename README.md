@@ -93,4 +93,3 @@ Implementing reusable class methods
 
 Following consistent formatting and commenting standards
 
-Because the logic is modular and encapsulated within a class, the program can easily be expanded to include additional reporting features, alternative file formats, or integration with graphical user interfaces in future projects.
